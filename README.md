@@ -1,2 +1,2 @@
 # AndroidStudio
-android studio branch
+GOTO Master Branch for Android code
